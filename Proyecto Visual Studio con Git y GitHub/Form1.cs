@@ -16,5 +16,10 @@ namespace Proyecto_Visual_Studio_con_Git_y_GitHub
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //cambios de la rama principal con comentarios
+        }
     }
 }
